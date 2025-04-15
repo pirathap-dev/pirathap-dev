@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Pirathap</h1>
--MERN Stack Developer | Tech Enthusiast | Open to Freelance Projects.
+<h1 align="center">Hi 👋, I'm Pirathap</h1>
+<h3 align="center">MERN Stack Developer | Tech Enthusiast | Open to Freelance Projects</h3>
 
 ---
 
