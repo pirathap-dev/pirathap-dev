@@ -1,4 +1,4 @@
--Hi 👋, I'm Pirathap
+<h1>Hi 👋, I'm Pirathap</h1>
 -MERN Stack Developer | Tech Enthusiast | Open to Freelance Projects.
 
 ---
