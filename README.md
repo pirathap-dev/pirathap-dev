@@ -32,6 +32,17 @@
 
 > 💡 Planning to deploy these soon and add live links.
 
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pirathap&show_icons=true&theme=react" alt="Pirathap's GitHub stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pirathap&layout=compact&theme=react" alt="Top Languages" />
+</p>
+
 ---
 
 ### 📫 Connect With Me
